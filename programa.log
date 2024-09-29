@@ -1,0 +1,6 @@
+2024-08-29 17:08:04,048 - DEBUG - matplotlib data path: C:\Users\Raian\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\mpl-data
+2024-08-29 17:08:04,060 - DEBUG - CONFIGDIR=C:\Users\Raian\.matplotlib
+2024-08-29 17:08:04,062 - DEBUG - interactive is False
+2024-08-29 17:08:04,062 - DEBUG - platform is win32
+2024-08-29 17:08:04,153 - DEBUG - CACHEDIR=C:\Users\Raian\.matplotlib
+2024-08-29 17:08:04,154 - DEBUG - Using fontManager instance from C:\Users\Raian\.matplotlib\fontlist-v390.json
